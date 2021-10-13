@@ -8,30 +8,33 @@ function Descriptions() {
         <div className="col">
           <h5 className="title-text">Real Cats</h5>
           <p className="sub-text">
-            Contrary to popular belief, cats aren't loners. At furbook, we know
-            cats need friendship, affection, and comradery. It is our core
-            belief that beneath every cat's hard, angry, exterior there is a pet
-            who jus wants to play and cuddle with a friend
+            I have a black and white cat named Skyler. Skyler is a demon in a
+            cats body that likes to sleep all day and scratch people. But thats
+            what I love about her :)
           </p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Dogs</h5>
           <p className="sub-text">
-            Dogs are man's best friend. But dogs can also be dog's best friend.
-            Maybe even bester than man's best friend. On furbook, you can find
-            millions of other dogs who can be a loyal companion, trusted
-            confidant, and reliable wrestling partner
+            Theres this one time a dog bit me but I didn't get rabies. But thats
+            ok because rabies is bad. Dogs are cool and they're called "man's
+            best friend."
           </p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Friends</h5>
           <p className="sub-text">
-            s Who says cats and dogs can't get along? Here at Furbook, we
-            believe all pets can be best friends. Our furbook users believe it
-            doesn't matter if you are a cat, dog, rabbit, or ferret; underneath
-            that fur we are all cute, wonderful pets.{" "}
+            Ok so cats and dogs are known by everyone to not like each other,
+            but in my opinion dogs just bully cats because they're smaller and
+            they have the instinct to get smaller animals like squirrels. Also,
+            cats tend to run away from danger which triggers a dogs instict to
+            run after it. Mr. Lance give me a good grade on this i researched
+            this
           </p>
         </div>
+      </div>
+      <div className="col">
+        <h5 className="subtext">This is a description lmao bruh bruh bruh</h5>
       </div>
     </div>
   );
